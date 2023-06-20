@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+#poster {
+    color: whitesmoke;
+    font-family: 'Dosis', sans-serif;
+font-family: 'Playfair Display', serif;
+text-align: center;
+}
+.motivation {
+    width:55% ;
+    border: 5px solid white;
+}
